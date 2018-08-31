@@ -3,7 +3,7 @@ Build ISO Installers from the WIM file
 
 This was designed to build the .wim files into a ISO to reinstall on the desktops/laptops in the field
 
-This does require the DISM.exe from Microsoft https://www.microsoft.com/en-us/download/details.aspx?id=54259
+This does require the DISM.exe from Microsoft https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
 
 The way this tool works is it will complies wims into there own seperate iso files.
 
