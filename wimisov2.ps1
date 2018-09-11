@@ -1,5 +1,7 @@
 function wimiso
 {
+    #This version is design to take the ISO from server source and compile to the local drive\
+    #The version was designed and never used but handy for notes as another version was built
     $Directory = "D:\WIMtoISO\"
     #$files = Get-ChildItem -Attributes I:\Images\Images -Include *.wim -Recurse
     $wim = "D:\WIMtoISO\Final\images\"
